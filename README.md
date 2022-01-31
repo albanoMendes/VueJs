@@ -1,5 +1,5 @@
 # ecommerce-vue
-
+Esta app esta sendo feito com vue e bootstrap
 ## Project setup
 ```
 npm install
